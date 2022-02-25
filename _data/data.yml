@@ -55,7 +55,7 @@ career-profile:
             i am most intrested in computer networks and artificial intelligence. 
 education:
     - degree: 
-      university: Department of Informatics, Ionian University
+    - university: Department of Informatics, Ionian University
       time: 2019 -
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
