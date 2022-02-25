@@ -18,13 +18,6 @@ sidebar:
     website: 
     linkedin: 
     github: p19biza
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: 
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: #http://www.africau.edu/images/default/sample.pdf
 
     languages:
@@ -54,17 +47,10 @@ career-profile:
             and enjoy doing. I consider it as one of my hobbies that i feel like i am really good at. In the future, out of the many fields that computer science has, 
             i am most intrested in computer networks and artificial intelligence. 
 education:
-    - degree: 
-    - university: Department of Informatics, Ionian University
-      time: 2019 -
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+    - degree: Department of Informatics
+    - university: Ionian University
+      time: 2019 ~
+
         
 experiences:
     - role: 
