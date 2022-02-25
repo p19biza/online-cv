@@ -55,7 +55,8 @@ career-profile:
             i am most intrested in computer networks and artificial intelligence. 
         
 experience:
-    In this current timeline, i dont have any real experience. I am already trying to create and learn more things on the field in order to make my very own project.
+   details:
+            In this current timeline, i dont have any real experience. I am already trying to create and learn more things on the field in order to make my very own project.
 
 skills:
     title: Skills &amp; Proficiency
@@ -72,12 +73,6 @@ skills:
 
       - name: HTML5 & CSS
         level: 65%
-
-      - #name: Ruby on Rails
-        #level: 85%
-
-      - #name: Sketch & Photoshop
-        #level: 60%
 
 # footer: >
    # Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
