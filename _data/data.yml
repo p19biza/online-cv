@@ -14,11 +14,9 @@ sidebar:
     # Sidebar links
     email: p19biza@ionio.gr
     phone: 69XXXXXXXX
-    citizenship: Greek
-    website: 
-    linkedin: 
+    citizenship: Greek 
     github: p19biza
-    pdf: 
+    pdf: https://github.com/p19biza/online-cv/blob/gh-pages/index.pdf
 
     languages:
       - idiom: Greek
@@ -77,5 +75,5 @@ skills:
       - name: HTML5 & CSS
         level: 65%
 
-# footer: >
-   # Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+footer: >
+      Designed by <a href="https://github.com/p19biza" target="_blank" rel="nofollow">p19biza</a>
